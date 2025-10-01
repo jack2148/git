@@ -2,6 +2,10 @@ name : LEE
 
 Age : 21
 
+<<<<<<< HEAD
 Hobby : 독서 , 러닝 , 명상
+=======
+Hobby : 독서 , 러닝 , 야구
+>>>>>>> b3dd8f5 (이 취미 추가3)
 
 Friend : KIM
